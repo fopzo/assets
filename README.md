@@ -1,4 +1,4 @@
-# This repository provides access to the assets of the Standoff 2 game.
+# assets standoff 2
 Github pages: http://fopzo1.github.io/assets
 
 Created by https://t.me/fopzo
