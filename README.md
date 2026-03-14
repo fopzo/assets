@@ -1,9 +1,12 @@
-# assets standoff 2
-Github pages: http://fopzo1.github.io/assets
+# 🎮 Standoff 2 Game Assets
 
-Created by https://t.me/fopzo
+**❗️ This repository is currently under development.**
+
+---
+
+[🌐 Github pages](http://fopzo1.github.io/assets)  
+[📢 Telegram channel](https://t.me/fopzo)  
+[✉️ Contact](mailto:me@loserware.cc)
 
 
-Contact: me@loserware.cc
 
-DMCA: dmca@loserware.cc
