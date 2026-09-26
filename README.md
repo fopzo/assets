@@ -4,7 +4,7 @@
 
 ---
 
-[🌐 Github pages](http://fopzo1.github.io/assets)  
+[🌐 Github pages](http://fopzo.github.io/assets)  
 [📢 Telegram channel](https://t.me/fopzo)  
 [✉️ Contact](mailto:me@loserware.cc)
 
